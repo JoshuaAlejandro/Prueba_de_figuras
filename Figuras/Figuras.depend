@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1712882193 source:c:\users\udi\documents\practicas aeav\figuras\main.cpp
+	<iostream>
+
+1712883566 source:c:\users\udi\documents\practicas aeav\figuras\figura.cpp
+	"figura.h"
+
+1712882193 c:\users\udi\documents\practicas aeav\figuras\figura.h
+
+1712882732 source:c:\users\udi\documents\practicas aeav\figuras\triangulo.cpp
+	"triangulo.h"
+
+1712882574 c:\users\udi\documents\practicas aeav\figuras\triangulo.h
+	"figura.h"
+
+1712968356 source:e:\figuras\figura.cpp
+	"figura.h"
+
+1713467066 e:\figuras\figura.h
+
+1713574198 source:e:\figuras\main.cpp
+	<iostream>
+	"triangulo.h"
+	"figura.h"
+	"isosceles.h"
+	"Equilatero.h"
+
+1712968355 source:c:\users\udi\desktop\figuras\figura.cpp
+	"figura.h"
+
+1712967921 c:\users\udi\desktop\figuras\figura.h
+
+1712882194 source:c:\users\udi\desktop\figuras\main.cpp
+	<iostream>
+
+1712968070 source:c:\users\udi\desktop\figuras\triangulo.cpp
+	"triangulo.h"
+
+1712968318 c:\users\udi\desktop\figuras\triangulo.h
+	"figura.h"
+
+1712971956 source:d:\figuras\figura.cpp
+	"figura.h"
+
+1713470666 d:\figuras\figura.h
+
+1713577798 source:d:\figuras\main.cpp
+	<iostream>
+	"triangulo.h"
+	"figura.h"
+	"isosceles.h"
+	"Equilatero.h"
+
+1713578108 source:d:\figuras\triangulo.cpp
+	"triangulo.h"
+
+1713470852 d:\figuras\triangulo.h
+	"figura.h"
+
+1713467252 e:\figuras\triangulo.h
+	"figura.h"
+
+1713572000 source:e:\figuras\triangulo.cpp
+	"triangulo.h"
+
+1713574398 source:e:\figuras\isosceles.cpp
+	"isosceles.h"
+	"triangulo.h"
+
+1713573736 e:\figuras\isosceles.h
+	"triangulo.h"
+
+1713573896 source:e:\figuras\equilatero.cpp
+	"Equilatero.h"
+	"triangulo.h"
+
+1713573736 e:\figuras\equilatero.h
+	"triangulo.h"
+
+1713577496 source:d:\figuras\equilatero.cpp
+	"Equilatero.h"
+	"triangulo.h"
+
+1713577336 d:\figuras\equilatero.h
+	"triangulo.h"
+
+1713577998 source:d:\figuras\isosceles.cpp
+	"isosceles.h"
+	"triangulo.h"
+
+1713577336 d:\figuras\isosceles.h
+	"triangulo.h"
+
